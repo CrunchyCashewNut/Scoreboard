@@ -5,7 +5,7 @@ This project helped me practise DOM manipulation, custom fonts, flexbox layout, 
 
 
 ## 🚀 Live Demo  
-👉 [View the scoreboard](#) **
+👉 [View the scoreboard](https://crunchycashewnut.github.io/Scoreboard/) : https://crunchycashewnut.github.io/Scoreboard/
 
 
 ## 🎯 Features
